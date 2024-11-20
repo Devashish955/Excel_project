@@ -1,6 +1,8 @@
 ## Dogesh Store Annual Report 2022 :-
-   This repository contains an Excel dashboard project analyzing the annual sales data for Dogesh Store in 2022. 
-   The project provides insights into sales performance, order trends, customer demographics, and other key metrics.
+   -> This repository contains an Excel dashboard project analyzing the annual sales data for Dogesh 
+      Store in 2022. 
+   -> The project provides insights into sales performance, order trends, customer demographics, and 
+      other key metrics.
 
 ## Project Overview :-
    The project focuses on leveraging Excel's capabilities for:
@@ -36,14 +38,16 @@
 ## Key Insights :-
    
    -> Gender Analysis: Women are more likely to buy compared to men (~65%).
-   -> Top States: Maharashtra, Karnataka, and Uttar Pradesh are the top three contributors to sales (~35%).
+   -> Top States: Maharashtra, Karnataka, and Uttar Pradesh are the top three contributors to sales 
+      (~35%).
    -> Age Group: The adult age group (30–49 years) contributes the most (~50%).
    -> Sales Channels: Amazon, Flipkart, and Myntra account for ~80% of total sales.
 
 
 ## Final Conclusion to Improve Sales :-
    -> Focus on women customers aged 30–49 years living in Maharashtra, Karnataka, and Uttar Pradesh.
-   -> Utilize targeted ads, offers, and coupons on major sales channels like Amazon, Flipkart, and Myntra to maximize outreach and sales.
+   -> Utilize targeted ads, offers, and coupons on major sales channels like Amazon, Flipkart, and 
+      Myntra to maximize outreach and sales.
 
 
 ## Project File :- 
